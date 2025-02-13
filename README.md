@@ -18,8 +18,8 @@ The goal of this project is to build an automated data analytics pipeline to man
 4. **ETL (Extract, Transform, Load):** Data is processed and loaded into BigQuery.
 5. **Data Analysis & Reporting:** Sales data is visualized in Looker Studio to track performance by region and provide insights for business decisions.
 
-## Architecture
-https://github.com/monikavaddineni/sales-data-pipeline-project/blob/ef754d34df8eef61c42e1874bd1cd1ffbff43d7d/salesetl.png
+## ![Architecture](https://github.com/monikavaddineni/sales-data-pipeline-project/blob/main/salesetl.png)
+
 
 ## Outcome
 - **Automated pipeline** for collecting, transforming, and loading sales data.
